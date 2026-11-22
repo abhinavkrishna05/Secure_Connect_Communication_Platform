@@ -9,7 +9,7 @@
 ![JWT](https://img.shields.io/badge/Auth-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Course](https://img.shields.io/badge/Course-Web%20Dev%20III-blue?style=flat-square)
 
-**Repository:** [github.com/abhinavkrishna05/&lt;repository-name&gt;](https://github.com/abhinavkrishna05)
+**Repository:** [github.com/abhinavkrishna05/&lt;repository-name&gt;](https://github.com/abhinavkrishna05/Secure_Connect_Communication_Platform)
 
 ---
 
